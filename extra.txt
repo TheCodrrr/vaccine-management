@@ -1,0 +1,7 @@
+DISEASE - DOSES
+covid - 3
+polio - 4
+tetanus - no
+typhoid - no
+chicken pox - 2
+changing the dates printing from dd-mm-yyyy to date month, year.
